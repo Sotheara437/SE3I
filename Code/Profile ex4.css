@@ -1,0 +1,50 @@
+/* Card Container */
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 300px;
+    margin: auto;
+    text-align: center;
+    font-family: Arial, sans-serif;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+/* Title / Role Text */
+.title {
+    color: grey;
+    font-size: 18px;
+    margin-top: 10px;
+}
+
+/* Contact Button */
+button {
+    border: none;
+    outline: 0;
+    display: inline-block;
+    padding: 10px 20px;
+    color: white;
+    background-color: #000;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+    font-size: 18px;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+button:hover {
+    background-color: #555;
+}
+
+/* Social Media Links */
+a {
+    text-decoration: none;
+    font-size: 22px;
+    color: black;
+    margin: 0 8px;
+    transition: color 0.3s ease;
+}
+
+a:hover {
+    color: #007bff;
+}

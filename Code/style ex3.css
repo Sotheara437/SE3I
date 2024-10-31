@@ -1,0 +1,19 @@
+/* TODO */
+.btn{
+    background-color: rgb(214, 36, 116);
+    border:50px solid wheat solid;
+    color: white;
+    padding: 15px 32px;
+    border-radius: 10px ;
+    font-size: 18px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background-color 0.5s, border-color 0.5s;
+
+}
+.btn:hover{
+    background-color :darkmagenta;
+    border-color : darkorchid;
+
+
+}
